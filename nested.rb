@@ -92,8 +92,8 @@ def adding_matz
     # OR,    
     #programmer_hash[:yukihiro_matsumoto] = {:known_for => "Ruby", :languages => ["LISP", "C"]}
     #programmer_hash
-    programmer_hash
     }
+    programmer_hash
 end
 adding_matz
 
@@ -139,7 +139,7 @@ def adding_to_dennis
         }
      }
     programmer_hash[:dennis_ritchie][:languages] << "Assembly"
-    prorgammer_hash
+    programmer_hash
 
 end
 adding_to_dennis
